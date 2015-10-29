@@ -1,0 +1,19 @@
+/* Navigation Arrow Styling */
+
+body{
+    @import url(https://fonts.googleapis.com/css?family=Oswald);
+    font-family: 'Oswald', sans-serif;
+    text-align:center;
+}
+
+.nav-arrow{
+    width:50px;
+    padding-left:50px;
+    padding-right:50px;
+}
+
+#main-picture{
+    min-height:500px;
+    max-height:500px;
+    border:3px solid #021a40;
+}
